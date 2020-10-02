@@ -1,2 +1,1 @@
-# Hacktoberfest pemula 2020
-
+# Hacktoberfest pemula 2020 mohon izin
