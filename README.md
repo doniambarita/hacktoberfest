@@ -1,1 +1,1 @@
-# hacktoberfest Oktober2020
+# hacktoberfest
