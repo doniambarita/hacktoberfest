@@ -1,2 +1,1 @@
-# Hacktoberfest pemula
- 
+# Hacktoberfest pemula 2020
